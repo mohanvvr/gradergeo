@@ -1,0 +1,1 @@
+Copyright © 2012 GraderJoe LLC. All rights reserved. <a href="<?php echo site_url('home/terms')?>">Terms of Use</a> | <a href="<?php echo site_url('home/policy')?>">Privacy Policy</a> 

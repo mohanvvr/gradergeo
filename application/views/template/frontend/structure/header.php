@@ -1,0 +1,1 @@
+<a href="<?php echo site_url(); ?>"><img src="<?php echo base_url(); ?>/assets/images/graderjoe_header_text.png" width="300" height="75" /></a>
